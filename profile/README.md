@@ -1,6 +1,6 @@
-# MediNotes
+# MedCipher
 
-MediNotes
+MedCipher
 
 
 
